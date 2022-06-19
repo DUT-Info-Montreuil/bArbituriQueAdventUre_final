@@ -12,9 +12,9 @@ D sert à aller à droite
 Z  sert à sauter
 
 Le joueur peut fermer son inventaire grâce à la touche I du clavier.
-Pour équiper le héros de l’outil voulu, il suffit de cliquer sur l’outil dans l’inventaire, la souris indiquera quel objet a été choisi.
+Pour équiper l’outil voulu, il suffit de cliquer sur l’outil dans l’inventaire, la souris indiquera quel objet a été choisi.
 
-Pour casser un arbre, creuser le sol ou bien frapper un ennemi, il suffit de cliquer continuellement sur l’élément concerné avec l’objet concerné :
+Pour casser un arbre, creuser le sol ou bien frapper un ennemi, il suffit de cliquer continuellement sur l’élément concerné avec l’outil concerné :
 la pioche sert à creuser;
 la hache sert à casser les arbres et les champignons
 l’épée sert à se battre.
